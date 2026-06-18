@@ -20,4 +20,6 @@ I’ve also created real-time applications like multiplayer chess with WebSocket
 
 What defines my work is that I don’t just build demo projects — I build systems to understand how they truly work. I care about user pain points, developer experience, architecture decisions, and shipping useful products. I learn quickly, adapt fast, and enjoy working on ambitious engineering problems with real impact.
 
-# Proof Of Work : [https://grass-agustinia-699.notion.site/Proof-of-Work-324235be2b3880909e04ef3e18178637](https://www.notion.so/Proof-of-Work-324235be2b3880909e04ef3e18178637?pvs=21)
+##### Proof Of Work : https://tinyurl.com/omshdev-pow
+##### Resume : https://tinyurl.com/omshres
+##### CV : https://tinyurl.com/omshcv
