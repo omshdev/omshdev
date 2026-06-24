@@ -19,7 +19,5 @@ In AI and productivity tools, I built **Chat with PDF**, an application that let
 I’ve also created real-time applications like multiplayer chess with WebSockets, collaborative docs, file sharing tools, quiz platforms, and browser-based streaming software inspired by OBS. Alongside that, I explore Rust + WebAssembly deeply through experiments involving JS/WASM memory sharing, performance testing, and browser integrations.
 
 What defines my work is that I don’t just build demo projects — I build systems to understand how they truly work. I care about user pain points, developer experience, architecture decisions, and shipping useful products. I learn quickly, adapt fast, and enjoy working on ambitious engineering problems with real impact.
-
-## Proof Of Work : https://tinyurl.com/omshdev-pow
-## Resume : https://tinyurl.com/omshres
-
+Proof Of Work : https://tinyurl.com/omshdev-pow
+Resume : https://tinyurl.com/omshres
